@@ -1,0 +1,14 @@
+/* Example starter styles */
+.App {
+    font-family: sans-serif;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .cell-display {
+    margin-top: 1.5rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
